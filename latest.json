@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.8.0",
-    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.8.0/OaklineOS-Professional-Setup-2.8.0.exe",
-    "sha256":  "2442c6b8b66b71534018c3f16edcb5b9814bde4623246e09e9eebdfc763fcdf5",
-    "publishedAt":  "2026-08-04T12:23:58.0177665-04:00",
+    "version":  "2.8.1",
+    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.8.1/OaklineOS-Professional-Setup-2.8.1.exe",
+    "sha256":  "5f73193efb7e8b3da02699833bfd24a002334859f340967c071d3607552ea062",
+    "publishedAt":  "2026-08-04T13:42:47.8451464-04:00",
     "minimumVersion":  "2.8.0",
     "mandatory":  false,
-    "releaseNotes":  "initial OaklineOS updater release with website requests, live scheduling, and automatic updates."
+    "releaseNotes":  "Improved automatic update reliability, installer verification improvements, minor bug fixes, and performance improvements."
 }
