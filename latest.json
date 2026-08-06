@@ -1,9 +1,9 @@
 {
-    "version":  "2.8.3",
-    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.8.3/OaklineOS-Professional-Setup-2.8.3.exe",
-    "sha256":  "6e4b0d6846acf98979406764b70fcd1ddc2702acbd85e2a371b27d642647afb6",
-    "publishedAt":  "2026-08-05T16:02:17.5817116-04:00",
+    "version":  "2.8.7",
+    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.8.7/OaklineOS-Professional-Setup-2.8.7.exe",
+    "sha256":  "d73dd2c992fb37bfed0241e0e72fb9dc0bfec7ca4a3da463c05b6b0d008f63f5",
+    "publishedAt":  "2026-08-06T14:48:54.5656813-04:00",
     "minimumVersion":  "2.8.0",
     "mandatory":  false,
-    "releaseNotes":  "Added VIN-only supplier launching, clean VIN clipboard transfer, supplier shortcuts, and Parts Hub reliability improvements."
+    "releaseNotes":  "Added Matco PDF scan importing, integrated multi-code diagnostic plans, VIN Parts Hub, N80 A4 continuous-roll printing, unified customer diagnostic reports, and stability improvements."
 }
