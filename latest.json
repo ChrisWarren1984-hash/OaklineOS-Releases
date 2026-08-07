@@ -1,9 +1,9 @@
 {
-    "version":  "2.9.2",
-    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.9.2/OaklineOS-Professional-Setup-2.9.2.exe",
-    "sha256":  "a871cd84317979cb7129bf978b59d21dcfd9d0644c2a5ce1fdb3539e9e61d52e",
-    "publishedAt":  "2026-08-07T10:02:13.3758483-04:00",
+    "version":  "2.9.3",
+    "installerUrl":  "https://github.com/ChrisWarren1984-hash/OaklineOS-Releases/releases/download/v2.9.3/OaklineOS-Professional-Setup-2.9.3.exe",
+    "sha256":  "89622328936b6148598323f220f51953d1c6f83b4d224bef7f780bc71aab9ceb",
+    "publishedAt":  "2026-08-07T10:49:37.1187351-04:00",
     "minimumVersion":  "2.8.0",
     "mandatory":  false,
-    "releaseNotes":  "Verification test"
+    "releaseNotes":  "OaklineOS update"
 }
